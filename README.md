@@ -1,3 +1,9 @@
+![image](https://user-images.githubusercontent.com/62290677/160432850-1345192e-7c63-44d9-b955-8a5de85a4275.png)
+
+https://github.com/dolev146/CPP-EX2
+קישור לגיטהאב שעובד גם ממקודם
+
+
 <div dir="rtl" lang="he">
 
 # מחברת ועט
